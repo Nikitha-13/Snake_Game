@@ -28,6 +28,8 @@ The Snake game involves controlling a snake that grows in length as it consumes 
 3. Avoid colliding with the snake's body or the game board boundaries.
 4. When the game ends, you can choose to quit or restart.
 
+Enjoy Learning While Playing!!
+
 If you have any queries feel free to contact me at pindinikitha00@gmail.com or at https://www.linkedin.com/in/Nikitha-pindi.
 
 Have a Great Learning :)
