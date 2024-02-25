@@ -15,13 +15,14 @@ The Snake game involves controlling a snake that grows in length as it consumes 
 * Python 3.x
 * Pygame library
   
-Usage
-Ensure you have Python and Pygame installed on your system.
-Clone this repository to your local machine.
-Navigate to the project directory.
-Run the snake_game.py script using Python.
-Copy code
-python snake_game.py
+### Usage
+* Ensure you have Python and Pygame installed on your system.
+* Clone this repository to your local machine.
+* Navigate to the project directory.
+* Run the snake_game.py script using Python.
+   " python snake_game.py "
+
+  
 Use the arrow keys to control the snake.
 Eat food pellets to increase your score.
 Avoid colliding with the snake's body or the game board boundaries.
