@@ -12,8 +12,9 @@ The Snake game involves controlling a snake that grows in length as it consumes 
 * Game over screen with options to quit or restart
   
 ### Requirements
-Python 3.x
-Pygame library
+* Python 3.x
+* Pygame library
+  
 Usage
 Ensure you have Python and Pygame installed on your system.
 Clone this repository to your local machine.
