@@ -5,12 +5,13 @@ This is a simple implementation of the classic Snake game using Python and the P
 The Snake game involves controlling a snake that grows in length as it consumes food pellets placed randomly on the game board. The player controls the snake's movement with arrow keys or similar controls. The game ends if the snake collides with itself or the boundaries of the game board.
 
 ### Features
-Classic Snake gameplay experience
-Responsive controls using arrow keys
-Random generation of food pellets
-Score tracking
-Game over screen with options to quit or restart
-Requirements
+* Classic Snake gameplay experience
+* Responsive controls using arrow keys
+* Random generation of food pellets
+* Score tracking
+* Game over screen with options to quit or restart
+  
+### Requirements
 Python 3.x
 Pygame library
 Usage
