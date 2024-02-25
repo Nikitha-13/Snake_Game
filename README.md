@@ -23,7 +23,7 @@ The Snake game involves controlling a snake that grows in length as it consumes 
    " python snake_game.py "
 
   
-Use the arrow keys to control the snake.
-Eat food pellets to increase your score.
-Avoid colliding with the snake's body or the game board boundaries.
-When the game ends, you can choose to quit or restart.
+1. Use the arrow keys to control the snake.
+2. Eat food pellets to increase your score.
+3. Avoid colliding with the snake's body or the game board boundaries.
+4. When the game ends, you can choose to quit or restart.
